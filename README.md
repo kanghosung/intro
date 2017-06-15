@@ -1,6 +1,9 @@
 
-This is an K.H.S
+I'm K.H.S
 =============
-## This is a K
-## This is a H
-## This is a S
+## This is K
+> This is kang
+## This is H
+>This is ho
+## This is S
+>This is sung

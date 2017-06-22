@@ -1,10 +1,7 @@
+#intro
 
-I'm K.H.S
-=============
-## This is K
-> This is kang
-## This is H
->This is ho
-## This is S
->This is sung
-<hr/>
+# ![김기태] (http://www.nocutnews.co.kr/news/1081981)
+
+
+# [기태 직캠] (https://www.youtube.com/watch?v=HseNPspi0dw)
+
